@@ -1,5 +1,7 @@
 # LegalEase
 
+[Visit LegalEase](https://thelegalease.streamlit.app/) to explore more!
+
 LegalEase is a platform designed to simplify the understanding of legal rights under Pakistani law, addressing the issue of legal illiteracy. It leverages advanced natural language processing and secure data storage to provide clear and accessible legal information to the public.
 
 ## Features
