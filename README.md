@@ -1,4 +1,4 @@
-# LegalEase
+# LegalEase - One Stop Solution to understand Pakistan Law
 
 [Visit LegalEase](https://thelegalease.streamlit.app/) to explore more!
 
